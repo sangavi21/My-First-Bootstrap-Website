@@ -1,0 +1,93 @@
+/*
+
+My Custom CSS
+=============
+
+Author:  Brad Hussey
+Updated: August 2013
+Notes:	 Hand coded for Udemy.com
+
+*/
+
+
+/* --------------------------------------
+   Layout
+   -------------------------------------- */
+header{
+	background: blue;
+}
+
+#features img {
+	margin: 0 0 20px;
+}
+
+#inputMessage {
+	margin-bottom: 15px;
+}
+
+.about{
+	font-size:20px;
+	text-indent:80px;
+}
+
+#para{
+	font-size:20px;
+	text-indent:60px;
+}
+
+footer {
+	background: #333;
+	color: #eee;
+	font-size: 11px;
+	padding: 40px;
+}
+.copy
+{
+	font-size:15px;
+	float:left;
+}
+#con{
+	font-size:15px;
+	background-color:green;
+}
+
+
+/* --------------------------------------
+   Typography
+   -------------------------------------- */
+
+body {
+	-webkit-font-smoothing: antialiased;
+	text-rendering: optimizelegibility;
+}
+
+
+
+/* --------------------------------------
+   Navbar
+   -------------------------------------- */
+
+
+
+.navbar-brand {
+	padding: 13px 15px;
+}
+
+
+
+#nav{
+	float:right;
+	margin-top: 20px;
+	font-size: 20px;
+}
+
+   
+   
+
+
+
+
+
+
+
+
